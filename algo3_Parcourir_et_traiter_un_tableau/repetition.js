@@ -29,6 +29,7 @@ for(let i = 0; i < numbers.length; i++){
     }
 }
 
+<<<<<<< HEAD
 console.log('the rpeat numbers is :' .+' '+.rptNumbers);
 
 
@@ -40,3 +41,6 @@ console.log('the rpeat numbers is :' .+' '+.rptNumbers);
 
 
 
+=======
+console.log(rptNumbers)
+>>>>>>> bcf2f12 (docs: add dictionnaire_donnees.csv for blog)
