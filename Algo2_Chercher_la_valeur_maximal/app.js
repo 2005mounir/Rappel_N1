@@ -11,7 +11,12 @@ for(let i = 1 ; i < numbers.length ;i++){
           x = Y ;
        }
 }
+<<<<<<< HEAD
  console.log('the big nuber is'+' '+x);
+=======
+ console.log(x);
+ 
+>>>>>>> e87fe56 (algo)
 
 
 
