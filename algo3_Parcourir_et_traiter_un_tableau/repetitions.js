@@ -38,11 +38,4 @@ console.log(rptNumbers);
 
 
 
-  
-    /*  let itemNumber = numbers[i];
-     if(itemNumber == numbers[i]){
-        coumpter +=1;
-        if(coumpter > 1){
-            rptNumbers.push(this.numbers[i]);
-        }
-     }*/
+
