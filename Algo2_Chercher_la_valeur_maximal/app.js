@@ -11,7 +11,7 @@ for(let i = 1 ; i < numbers.length ;i++){
           x = Y ;
        }
 }
- console.log(x);
+ console.log('the big nuber is'+' '+x);
 
 
 
